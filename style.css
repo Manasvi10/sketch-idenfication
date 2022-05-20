@@ -5,13 +5,14 @@ background-color: #9ed3db;
 
 h1
 {
- color:rgb(207, 190, 221) ;
- background-color: #cbb6ca;
+ color:whitesmoke ;
+ background-color:#cbb6ca;
 }
 
 #show_sketch
 {
     float: right;
+    background-color:#b18cbc ;
 }
 
 canvas
